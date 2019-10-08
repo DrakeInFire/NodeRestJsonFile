@@ -13,7 +13,8 @@ Node and npm
 ### API Services
 This API is a CRUD of persons (personas in spanish).
 This is the information of a person
-```{
+```
+{
     "nombre": "string",
     "apellidos": "string",
     "edad": number,
