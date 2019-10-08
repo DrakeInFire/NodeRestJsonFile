@@ -1,20 +1,20 @@
-[	
-	{
-		"nombre":"Sarah",
-		"apellidos":"Connor",
-		"edad":29,
-		"dni":"99658672V"
-	},
-	{
-		"nombre":"Elend",
-		"apellidos":"Venture",
-		"edad":21,
-		"dni":"19475903D"
-	},
-	{
-		"nombre":"Gavin",
-		"apellidos":"Guile",
-		"edad":28,
-		"dni":"38037745T"
-	}
+[
+  {
+    "nombre": "Sarah",
+    "apellidos": "Connor",
+    "edad": 29,
+    "dni": "99658672V"
+  },
+  {
+    "nombre": "Elend",
+    "apellidos": "Venture",
+    "edad": 21,
+    "dni": "19475903D"
+  },
+  {
+    "nombre": "Gavin",
+    "apellidos": "Guile",
+    "edad": 28,
+    "dni": "38037745T"
+  }
 ]
