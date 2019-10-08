@@ -1,8 +1,8 @@
-#Node API Rest From JSON file
+# Node API Rest From JSON file
 
 This application is a Rest service using a json file as database
 
-##Prerequisites
+## Prerequisites
 
 Node and npm
 
